@@ -37,7 +37,7 @@ const Achivement = () => {
             <div className="text-[14px] font-semibold text-gray-900">
               {result && result.percentage}
             </div>
-            <div className="text-[14px] text-gray-500">YOUR RANK</div>
+            <div className="text-[14px] text-gray-500">PERCENTILE</div>
           </div>
         </div>
 
@@ -50,7 +50,7 @@ const Achivement = () => {
             <div className="text-[14px] font-semibold text-gray-900">
               {result && result.currentScore}
             </div>
-            <div className="text-[14px] text-gray-500">YOUR RANK</div>
+            <div className="text-[14px] text-gray-500">CORRECT ANSWERS</div>
           </div>
         </div>
       </div>

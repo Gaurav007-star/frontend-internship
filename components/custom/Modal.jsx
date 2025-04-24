@@ -47,7 +47,9 @@ const Modal = () => {
     <Dialog>
       <DialogTrigger
         asChild
-        className={"bg-indigo-900 text-white p-5 cursor-pointer "}
+        className={
+          "bg-indigo-900 text-white p-5 cursor-pointer max-[640px]:w-[70px] max-[340px]:w-full max-[640px]:p-0"
+        }
       >
         <Button variant="outline">Update</Button>
       </DialogTrigger>
