@@ -20,7 +20,7 @@ A **responsive and modern landing page** built with [Next.js](https://nextjs.org
 ## 📸 Preview
 
 <!-- You can add a screenshot here -->
-![Screenshot](./public/preview.png)
+![Video](./Untitled_video.mp4)
 
 ## 📦 Getting Started
 
